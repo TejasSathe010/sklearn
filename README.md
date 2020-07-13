@@ -8,5 +8,4 @@ This repository contains the notebooks for my basic understanding of sklearn lib
 
 Clone the repository run jupyter notebook
 
-## Author
- **Tejas Sathe**
+### Tejas Sathe
